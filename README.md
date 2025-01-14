@@ -12,9 +12,9 @@ Technologies Used:
 
 NLP Libraries: NLTK for preprocessing and scoring.
 Transformers: Hugging Face's T5 model for abstractive summarization.
-Frontend: Gradio for a professional and intuitive user interface.
+Frontend: Streamlit for a professional and intuitive user interface.
 How to Use:
 
 Clone the repository and install dependencies from requirements.txt.
-Run the script to launch the Gradio-based summarization tool.
+Run the script to launch the Streamlit-based summarization tool.
 Input any text into the tool and click "Summarize" to view results.
