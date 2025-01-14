@@ -2,3 +2,4 @@ nltk
 transformers
 streamlit
 torch
+sentencepiece
