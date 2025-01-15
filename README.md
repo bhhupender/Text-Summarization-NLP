@@ -1,7 +1,7 @@
 # Text-Summarization-NLP
 Text Summarization Tool using NLP and Transformers
 
-This project implements a powerful text summarization tool capable of generating both extractive and abstractive summaries. It combines traditional NLP techniques with modern transformer-based models like T5. A sleek and user-friendly interface is provided using Gradio, allowing users to input text and generate summaries effortlessly.
+This project implements a powerful text summarization tool capable of generating both extractive and abstractive summaries. It combines traditional NLP techniques with modern transformer-based models like T5. A sleek and user-friendly interface is provided using Streamlit, allowing users to input text and generate summaries effortlessly.
 
 Features:
 
